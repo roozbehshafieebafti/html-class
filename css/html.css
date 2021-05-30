@@ -1,0 +1,52 @@
+.card{
+    margin: 15px 10px;
+    border-radius: 5px;
+    border: 1px solid #C4C4C4;
+    padding: 16px 30px;
+    font-size: 32px;
+    font-weight: bold;
+    cursor: pointer;
+}
+small{
+    font-size: 16px;
+}
+hr{
+    margin: 50px 0px;
+}
+.card-1{    
+    background-color: #9afc86;
+}
+.card-2{    
+    background-color: #ffd09e;
+}
+.card-3{    
+    background-color: #7db7ff;
+}
+.card-4{    
+    background-color: #5cfa6c;
+}
+.card-5{    
+    background-color: #ff788a;
+}
+.card-6{    
+    background-color: #db8cff;
+}
+
+.card-1:hover{
+    background-color: #55ff33;
+}
+.card-2:hover{
+    background-color: #ffae36;
+}
+.card-3:hover{
+    background-color: #4050ff;
+}
+.card-4:hover{    
+    background-color: #3dff51;
+}
+.card-5:hover{    
+    background-color: #ff3853;
+}
+.card-6:hover{    
+    background-color: #cb59ff;
+}

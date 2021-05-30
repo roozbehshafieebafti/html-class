@@ -1,0 +1,33 @@
+.index-main{
+    height: 90vh;
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+}
+
+.index-links{
+    display: flex;
+    justify-content: space-between;
+    z-index: 10;
+    width: 70%;
+}
+.html , .css , .js{
+    width: 30%;
+    height: 320px;
+    cursor: pointer;
+}
+
+
+.html{
+    background: url('../img/html5.png') no-repeat;
+    background-size: 100% 100%;
+}
+.css{
+    background: url('../img/css.png') no-repeat;
+    background-size: 100% 100%;
+}
+.js{
+    background: url('../img/js.png') no-repeat;
+    background-size: 89% 90%;
+    background-position: 10px 15px;
+}
