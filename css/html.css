@@ -31,6 +31,9 @@ hr{
 .card-6{    
     background-color: #db8cff;
 }
+.card-7{    
+    background-color: #fff959;
+}
 
 .card-1:hover{
     background-color: #55ff33;
@@ -49,4 +52,7 @@ hr{
 }
 .card-6:hover{    
     background-color: #cb59ff;
+}
+.card-7:hover{    
+    background-color: #fff724;
 }
