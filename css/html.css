@@ -34,6 +34,12 @@ hr{
 .card-7{    
     background-color: #fff959;
 }
+.card-8{    
+    background-color: #c77dff;
+}
+.card-9{    
+    background-color: #96fff6;
+}
 
 .card-1:hover{
     background-color: #55ff33;
@@ -55,4 +61,10 @@ hr{
 }
 .card-7:hover{    
     background-color: #fff724;
+}
+.card-8:hover{    
+    background-color: #b04cfc;
+}
+.card-9:hover{    
+    background-color: #45f7e8;
 }
