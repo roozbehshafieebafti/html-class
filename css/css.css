@@ -23,3 +23,19 @@
 .h5{
     font-size: 16px;
 }
+
+table{
+    empty-cells: hide;
+    background-color: blue;
+    border-collapse: collapse;
+    border-spacing: 50px 5px;
+}
+tr{
+    background-color: red;
+    margin: 50px;
+}
+td{
+    /* background-color: blue; */
+    padding: 7px 10px 10px 30px;
+    border-bottom: 2px solid #111111;
+}
